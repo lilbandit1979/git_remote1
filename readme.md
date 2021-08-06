@@ -4,3 +4,4 @@
 ****Macbook commit
 ****local edit to remote
 *****Edit on Github
+******Edit on macbook with passphrase added to ssh agent
