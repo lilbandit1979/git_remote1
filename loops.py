@@ -19,3 +19,21 @@ counter = 0
 for letter in name:
     print(letter, 'comes in ', counter)
     counter +=1
+
+
+name = 'fiona'
+
+counter = 0
+
+for letter in name:
+    print(letter, end = '')
+    counter +=2
+
+print(counter)
+
+family = {'daddy':'stephen', 'mammy':'fiona', 'daughter':'saoirse'}
+print(family['daddy'])
+
+father = family.get('daddy')
+
+print(father)
