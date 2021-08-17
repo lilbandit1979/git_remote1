@@ -37,3 +37,13 @@ print(family['daddy'])
 father = family.get('daddy')
 
 print(father)
+
+
+school_contacts = {'u10 football': 'Stephen O Brien', 'u11 football': 'Conor Dooley'}
+print(school_contacts)
+
+u10_contact = school_contacts.get('u10 football')
+print(u10_contact)
+
+
+
